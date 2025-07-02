@@ -30,3 +30,6 @@ bin/
 
 # Ignorar clave de API
 src/config.properties
+
+# Ignorar clave API
+src/config.properties
