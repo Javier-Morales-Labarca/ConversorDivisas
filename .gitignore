@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 # Ignorar clave de API
-src/config.properties
+src/resources/config.properties
 
 # Ignorar clave API
-src/config.properties
+src/resources/config.properties
