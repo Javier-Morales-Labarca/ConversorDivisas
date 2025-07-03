@@ -28,8 +28,7 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-# Ignorar clave de API
+# Ignorar
 src/resources/config.properties
 
-# Ignorar clave API
-src/resources/config.properties
+
